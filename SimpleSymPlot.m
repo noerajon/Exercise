@@ -2,6 +2,8 @@
 clear all; close all; clc;
 % insert here the path where it is installed the EPANET-Matlab toolkit
 addpath(genpath('C:\Users\noera\Documents\Education\ENSE3\3A\COURSES\INDUSTRIAL HYDRAULICS\SOFTWARE\EPANET-Matlab-Toolkit-dev\epanet_matlab_toolkit'))
+addpath(genpath('C:\Users\noera\Documents\Education\ENSE3\3A\COURSES\INDUSTRIAL HYDRAULICS\SOFTWARE\EPANET-Matlab-Toolkit-dev\epanet_matlab_toolkit'))
+addpath(genpath('C:\Users\noera\Documents\Education\ENSE3\3A\COURSES\INDUSTRIAL HYDRAULICS\SOFTWARE\EPANET-Matlab-Toolkit-dev\epanet_matlab_toolkit'))
 start_toolkit; %to start the epanet toolkit
 %%
 % Load a network
