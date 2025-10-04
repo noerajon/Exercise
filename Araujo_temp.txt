@@ -1,0 +1,75 @@
+  Page 1                                    Sat Oct 04 15:56:22 2025
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.2                            *
+  ******************************************************************
+  
+  Analysis begun Sat Oct 04 15:56:22 2025
+
+   
+  Hydraulic Status:
+  -----------------------------------------------------------------------
+     0:00:00: Balanced after 9 trials
+     0:00:00: Reservoir 23 is emptying
+     0:00:00: Reservoir 24 is emptying
+     0:00:00: Reservoir 25 is emptying
+   
+     1:00:00: Balanced after 2 trials
+   
+     2:00:00: Balanced after 4 trials
+     2:00:00: Reservoir 24 is filling
+   
+     3:00:00: Balanced after 2 trials
+   
+     4:00:00: Balanced after 2 trials
+   
+     5:00:00: Balanced after 2 trials
+   
+     6:00:00: Balanced after 2 trials
+   
+     7:00:00: Balanced after 2 trials
+   
+     8:00:00: Balanced after 2 trials
+     8:00:00: Reservoir 24 is emptying
+   
+     9:00:00: Balanced after 2 trials
+   
+    10:00:00: Balanced after 2 trials
+   
+    11:00:00: Balanced after 2 trials
+   
+    12:00:00: Balanced after 3 trials
+   
+    13:00:00: Balanced after 3 trials
+    13:00:00: Reservoir 23 is filling
+   
+    14:00:00: Balanced after 2 trials
+   
+    15:00:00: Balanced after 4 trials
+    15:00:00: Reservoir 23 is emptying
+   
+    16:00:00: Balanced after 3 trials
+    16:00:00: Reservoir 23 is filling
+   
+    17:00:00: Balanced after 4 trials
+    17:00:00: Reservoir 23 is emptying
+   
+    18:00:00: Balanced after 3 trials
+    18:00:00: Reservoir 23 is filling
+   
+    19:00:00: Balanced after 2 trials
+   
+    20:00:00: Balanced after 5 trials
+    20:00:00: Reservoir 23 is emptying
+   
+    21:00:00: Balanced after 1 trials
+   
+    22:00:00: Balanced after 2 trials
+   
+    23:00:00: Balanced after 3 trials
+   
+    24:00:00: Balanced after 3 trials
+   
